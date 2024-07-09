@@ -1,0 +1,5 @@
+venv/
+src.egg-info/
+logs/
+deployment_documentation/
+build
